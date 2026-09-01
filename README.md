@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0393-utf-8-validation](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0393-utf-8-validation) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
@@ -34,4 +35,20 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
+## Greedy
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
+## Sorting
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
