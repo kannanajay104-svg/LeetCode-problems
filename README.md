@@ -18,6 +18,7 @@
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0393-utf-8-validation](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0393-utf-8-validation) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
