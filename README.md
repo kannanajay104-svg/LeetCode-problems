@@ -8,6 +8,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Math
 |  |
@@ -24,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
 |  |
@@ -32,6 +34,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
@@ -47,6 +50,7 @@
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 ## Sorting
 |  |
 | ------- |
