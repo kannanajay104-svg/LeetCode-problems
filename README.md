@@ -24,6 +24,7 @@
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
 ## Sorting
 |  |
 | ------- |
