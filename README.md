@@ -21,11 +21,13 @@
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0393-utf-8-validation](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0393-utf-8-validation) |
+| [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
 |  |
@@ -51,6 +53,7 @@
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -63,4 +66,12 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
