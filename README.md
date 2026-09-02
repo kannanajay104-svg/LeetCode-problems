@@ -25,6 +25,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
 ## Sorting
 |  |
