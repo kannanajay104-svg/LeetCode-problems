@@ -69,6 +69,7 @@
 | [0517-super-washing-machines](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -98,9 +99,14 @@
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
+| [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
