@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0137-single-number-ii) |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
@@ -77,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -118,4 +120,16 @@
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
