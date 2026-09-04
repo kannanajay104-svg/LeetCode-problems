@@ -83,6 +83,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | ------- |
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
 | [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,10 +132,12 @@
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
+| [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
