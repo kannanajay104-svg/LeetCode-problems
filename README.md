@@ -36,6 +36,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -155,4 +158,12 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
+## Stack
+|  |
+| ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
