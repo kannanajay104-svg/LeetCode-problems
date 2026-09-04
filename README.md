@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
+| [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 ## Sorting
 |  |
 | ------- |
