@@ -17,6 +17,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 ## Array
 |  |
@@ -179,6 +180,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
+| [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 ## Bracket Sequences
 |  |
 | ------- |
