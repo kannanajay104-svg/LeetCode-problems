@@ -18,6 +18,7 @@
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 ## Array
 |  |
@@ -31,6 +32,7 @@
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -49,6 +51,7 @@
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -181,8 +184,21 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
