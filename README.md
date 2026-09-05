@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 ## Array
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -55,6 +57,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
@@ -122,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
 | [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
@@ -168,4 +172,12 @@
 |  |
 | ------- |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
