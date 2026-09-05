@@ -38,6 +38,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
