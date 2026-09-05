@@ -20,6 +20,7 @@
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
+| [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | ------- |
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,6 +193,7 @@
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
+| [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
