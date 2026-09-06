@@ -25,6 +25,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1922-count-good-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1922-count-good-numbers) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [1808-maximize-number-of-nice-divisors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1922-count-good-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Bracket Sequences
 |  |
 | ------- |
