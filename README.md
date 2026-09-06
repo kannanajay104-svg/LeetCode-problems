@@ -143,6 +143,7 @@
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
+| [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Bracket Sequences
 |  |
 | ------- |
