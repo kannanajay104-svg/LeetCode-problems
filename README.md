@@ -24,6 +24,7 @@
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1922-count-good-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1922-count-good-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1922-count-good-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
