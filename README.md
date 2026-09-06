@@ -11,6 +11,7 @@
 | [0393-utf-8-validation](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bracket Sequences
 |  |
 | ------- |
