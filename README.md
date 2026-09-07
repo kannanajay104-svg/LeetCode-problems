@@ -22,6 +22,7 @@
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
@@ -70,6 +71,7 @@
 | [0338-counting-bits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -82,6 +84,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
