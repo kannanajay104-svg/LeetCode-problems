@@ -21,6 +21,7 @@
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
@@ -66,6 +67,7 @@
 | [0313-super-ugly-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
