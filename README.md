@@ -18,6 +18,7 @@
 | [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -259,4 +261,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
