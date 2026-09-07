@@ -41,6 +41,7 @@
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0393-utf-8-validation](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0393-utf-8-validation) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -68,6 +69,7 @@
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0343-integer-break) |
+| [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
@@ -140,10 +143,12 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 ## Binary Search
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
