@@ -19,6 +19,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0137-single-number-ii) |
+| [0313-super-ugly-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0313-super-ugly-number) |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -59,6 +61,7 @@
 | [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0313-super-ugly-number) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
