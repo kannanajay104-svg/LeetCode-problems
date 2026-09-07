@@ -15,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
