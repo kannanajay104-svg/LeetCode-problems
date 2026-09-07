@@ -63,6 +63,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
+| [0940-distinct-subsequences-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [0940-distinct-subsequences-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
