@@ -25,6 +25,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
@@ -77,6 +78,7 @@
 | [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -251,10 +253,12 @@
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
 |  |
