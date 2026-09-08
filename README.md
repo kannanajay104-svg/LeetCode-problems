@@ -96,6 +96,7 @@
 | [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -195,6 +196,7 @@
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
 | [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
