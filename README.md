@@ -18,6 +18,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -279,10 +281,12 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
 ## Simulation
 |  |
@@ -315,4 +319,8 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
