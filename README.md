@@ -91,6 +91,7 @@
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -110,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0397-integer-replacement) |
+| [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
@@ -187,6 +189,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0273-integer-to-english-words) |
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
+| [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0649-dota2-senate](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0649-dota2-senate) |
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
@@ -235,6 +238,7 @@
 ## Stack
 |  |
 | ------- |
+| [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
@@ -310,6 +314,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
+| [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 ## Knapsack Problem
 |  |
 | ------- |
