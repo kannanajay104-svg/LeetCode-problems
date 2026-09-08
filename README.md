@@ -57,6 +57,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -92,6 +93,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
@@ -320,6 +323,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -329,4 +333,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
