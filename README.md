@@ -32,6 +32,7 @@
 | [0738-monotone-increasing-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0738-monotone-increasing-digits) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1137-n-th-tribonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1922-count-good-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -90,6 +91,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
 | [0940-distinct-subsequences-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0509-fibonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
+| [1137-n-th-tribonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bitmask
 |  |
 | ------- |
