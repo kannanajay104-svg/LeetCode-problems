@@ -296,11 +296,13 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
@@ -347,4 +349,5 @@
 |  |
 | ------- |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
