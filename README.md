@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
@@ -209,6 +210,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0420-strong-password-checker](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
@@ -350,4 +353,12 @@
 | ------- |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
