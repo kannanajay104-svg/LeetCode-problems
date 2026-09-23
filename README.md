@@ -68,6 +68,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
@@ -184,10 +185,12 @@
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -227,6 +230,7 @@
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -361,4 +365,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
