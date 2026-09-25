@@ -112,6 +112,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Quickselect
 |  |
@@ -208,6 +210,7 @@
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 | [0940-distinct-subsequences-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
@@ -230,6 +233,7 @@
 | [0763-partition-labels](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
@@ -257,6 +261,7 @@
 | [0736-parse-lisp-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0736-parse-lisp-expression) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
+| [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
@@ -333,6 +338,7 @@
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
 | [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
+| [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
