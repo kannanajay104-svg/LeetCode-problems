@@ -69,6 +69,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
@@ -213,6 +214,7 @@
 | [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 | [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
