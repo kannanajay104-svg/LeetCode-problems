@@ -213,6 +213,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Heap (Priority Queue)
@@ -266,6 +267,7 @@
 | [0770-basic-calculator-iv](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0770-basic-calculator-iv) |
 | [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
 | ------- |
