@@ -71,6 +71,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3693-climbing-stairs-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3904-smallest-stable-index-ii) |
@@ -106,6 +107,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0894-all-possible-full-binary-trees) |
 | [0940-distinct-subsequences-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3693-climbing-stairs-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
@@ -295,6 +297,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimax
 |  |
 | ------- |
@@ -381,4 +384,8 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
