@@ -388,4 +388,8 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
