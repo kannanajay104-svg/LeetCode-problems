@@ -64,6 +64,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0695-max-area-of-island](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -347,6 +348,7 @@
 | [0322-coin-change](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0322-coin-change) |
 | [0488-zuma-game](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
+| [0695-max-area-of-island](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
 |  |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0514-freedom-trail](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0514-freedom-trail) |
+| [0695-max-area-of-island](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
@@ -387,9 +390,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
 |  |
 | ------- |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
