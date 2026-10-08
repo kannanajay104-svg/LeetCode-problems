@@ -395,6 +395,7 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/0177-nth-highest-salary) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/kannanajay104-svg/LeetCode-problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Union-Find
 |  |
